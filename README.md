@@ -23,7 +23,6 @@ patterns in sectors, asks/equity, valuations, and shark participation.
 ## 🚀 How to run
 1. Clone the repo and install dependencies:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo>
+   git clone <https://github.com/Chaviverma/Shark-Tank-India>
    pip install -r requirements.txt
 
